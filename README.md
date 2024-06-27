@@ -1,15 +1,17 @@
-# ADSO 2929061 B
-## Análisis y Desarrollo de software
-### Centro de Procesos Industriales y Construccion
+# adso 2929061 B
+
+## analisis y desarrollo de software
+
+### centro de procesos industriales y construccion
 
 ---
 
-![Hollow Knight](https://tinyurl.com/48z6hh4c)
+![avatar](https://tinyurl.com/36eyn9s9)
 
-ID | THEME | DESCRIPTION                           |
----| ----- | -----------                           |
-01 |emit   | work flow - markup & styling          |
-02 |html   | structure - hypertext markup Language |
-03 | css   | look & feel - cascading style sheets  |
+ ID | THEME | DESCRIPTION                            |
+ ---| ----- | -----------                            |
+ 01 | emmit | work flow - markup & styling           |
+ 02 | html  | structure - hypertext Markup language  |
+ 03 | css   | Look & fell - cascading style sheets   | 
 
-[ADSO Files DRIVE](https://tinyurl.com/wnkk334u)
+[adso files DRIVE](https://tinyurl.com/wnkk334u)
